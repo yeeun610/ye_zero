@@ -57,4 +57,5 @@
 
 ## ERD
 
+![zero](https://github.com/yeeun610/ye_zero/assets/44358572/b26eab3f-78ad-4011-9711-727b057e7218)
 
